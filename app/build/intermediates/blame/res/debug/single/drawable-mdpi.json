@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\ASproject\\wifi_rw_sensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\android\\ASproject\\wifi_rw_sensor\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\ASproject\\fxb_sensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\android\\ASproject\\fxb_sensor\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

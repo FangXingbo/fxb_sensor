@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android\ASsdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\android\ASproject\fxb_sensor\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_e6c99d33012c53504f551f0a1c6a6565749ff816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\ASproject\fxb_sensor\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\android\ASproject\fxb_sensor\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_bb9307f26df8b4e7e54c502846314919156c2863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\ASproject\fxb_sensor\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\android\ASproject\fxb_sensor\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_95a5a9e450493b09ef262567e21a78e3e7dcce31.jar" />
+    </item>
+
+</items>

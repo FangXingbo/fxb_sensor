@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\ASproject\\wifi_rw_sensor\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\android\\ASproject\\wifi_rw_sensor\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\android\\ASproject\\fxb_sensor\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\android\\ASproject\\fxb_sensor\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
